@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unscroll</string>
+    <string name="accessibility_service_description">
+        Unscroll monitors Instagram, YouTube, TikTok and Facebook to detect short-form video content 
+        like Reels, Shorts, and TikToks. It tracks your viewing time and helps you stay within 
+        your daily limit by showing a blocking screen when the limit is reached.
+        
+        🔒 Privacy: All data stays on your device. Nothing is uploaded or shared.
+    </string>
+    <string name="notification_channel_name">Unscroll Service</string>
+    <string name="notification_channel_description">Shows when Unscroll is actively monitoring</string>
+</resources>
