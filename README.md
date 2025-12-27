@@ -78,12 +78,10 @@ Unscroll requires the following permissions to function properly:
 
 <!-- Add your app screenshots here -->
 <p align="center">
-  <img src="screenshots/home_screen.png" width="250" alt="Home Screen"/>
-  <img src="screenshots/settings_screen.png" width="250" alt="Settings Screen"/>
-  <img src="screenshots/blocking_screen.png" width="250" alt="Blocking Screen"/>
+  <img src="screenshots/home.jpg" width="250" alt="Home Screen"/>
+  <img src="screenshots/settings.jpg" width="250" alt="Settings Screen"/>
+  <img src="screenshots/about.jpg" width="250" alt="Blocking Screen"/>
 </p>
-
-> **Note**: Add your screenshots to a `screenshots/` folder in the root directory and update the image paths above.
 
 ## 📂 Project Structure
 
