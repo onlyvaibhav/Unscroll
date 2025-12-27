@@ -103,14 +103,8 @@ Unscroll/
 ### System Requirements
 - **Flutter SDK**: 3.0.0 or higher
 - **Dart SDK**: 2.17.0 or higher
-- **Android Studio**: Arctic Fox (2020.3.1) or higher
+- **Android Studio**: Ladybug (2024.2.1) or higher
 - **Android SDK**: API Level 23 (Android 6.0) or higher
-
-### Device Requirements
-- **Minimum Android Version**: Android 6.0 (API 23)
-- **Recommended Android Version**: Android 8.0 (API 26) or higher
-- **Storage**: Minimum 50 MB free space
-- **RAM**: Minimum 2 GB
 
 ## 🤝 Contributing
 
@@ -138,7 +132,31 @@ Unscroll is designed to help users manage their screen time. However, tech-savvy
 
 ## 📄 License
 
-This project is currently unlicensed. Please contact the repository owner for usage permissions.
+This project is licensed under the MIT License - see below for details:
+
+```
+MIT License
+
+Copyright (c) 2025 Vaibhav
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ## 👨‍💻 Author
 
